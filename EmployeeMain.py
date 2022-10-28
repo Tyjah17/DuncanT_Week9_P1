@@ -32,3 +32,4 @@ if __name__ == '__main__':
         p2 = HourlyEmployee(f_name2, l_name2, ssn2, id_num2, pay, hours)
         # print user information
         print(p2)
+
